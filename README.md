@@ -1,3 +1,1 @@
-I am attempting to create artificial intelligence.
-I am currently unsure how to explain what that will include.
-Once I have a better idea of my plan I will update this README.
+The plan for this project is to create a system that can create unique AI instances. I plan to include many steering algorithms the can be combined to create unique -steering behaviours. As well as, create different types of map representations that will have an intuitive creation and use A* pathfinding. Finally, I plan on creating multiple decision making systems to be used by an AI character.
